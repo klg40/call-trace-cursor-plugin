@@ -2,7 +2,7 @@
   "name": "call-trace",
   "displayName": "Call Trace",
   "description": "Search calls, inspect transcripts and QA analysis, and compare contact-center performance with read-only access to your Call Trace workspace.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Call Trace",
     "email": "support@call-trace.com",
@@ -18,5 +18,5 @@
     "contact-center",
     "mcp"
   ],
-  "logo": "assets/icon.svg"
+  "logo": "assets/icon.png"
 }

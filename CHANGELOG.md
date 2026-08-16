@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2
+
+- Ship a rasterized 64×64 brand icon for consistent Cursor rendering.
+
 ## 0.1.1
 
 - Display the MCP connection as “Call Trace” in Cursor.

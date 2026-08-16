@@ -1,6 +1,7 @@
 {
   "mcpServers": {
-    "call-trace": {
+    "Call Trace": {
+      "type": "http",
       "url": "https://www.call-trace.com/mcp"
     }
   }

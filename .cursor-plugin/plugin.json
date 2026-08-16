@@ -1,0 +1,22 @@
+{
+  "name": "call-trace",
+  "displayName": "Call Trace",
+  "description": "Search calls, inspect transcripts and QA analysis, and compare contact-center performance with read-only access to your Call Trace workspace.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Call Trace",
+    "email": "support@call-trace.com",
+    "url": "https://www.call-trace.com"
+  },
+  "homepage": "https://www.call-trace.com/en/mcp",
+  "repository": "https://github.com/klg40/call-trace-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "call-analytics",
+    "transcripts",
+    "quality-assurance",
+    "contact-center",
+    "mcp"
+  ],
+  "logo": "assets/icon.svg"
+}
